@@ -1,6 +1,6 @@
 resourceGroupName="contoso-chat-rg"
 resourceGroupLocation="swedencentral"
-name="contoso-chat"     #TODO: Replace with Deployment name
+name="contoso-chat-sf-aiproj"     #TODO: Replace with Deployment name
 
 echo "Setting up environment variables in .env file..."
 # Save output values to variables
